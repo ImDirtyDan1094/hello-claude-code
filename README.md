@@ -13,4 +13,4 @@ A tiny practice project used to try out the pull request workflow with Claude Co
 python greet.py
 ```
 
-The script will recieve a name and print a greeting.
+The script will receive a name and print a greeting.
